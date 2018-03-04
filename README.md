@@ -4,29 +4,33 @@ This is the accompanying document to a four hour design workshop being delivered
 
 ---
 
-## Section 1: What is design?
+## 1: What is the job of design?
 
-Design is solving a problem using visual language - tube map
+1. Design is solving a problem using visual language
+2. Defining the problem you need to solve
 
-Define the problem you need to solve - not art
+**Graphic Designers of note**
+- Josef Müller-Brockmann
+- Otl Aicher
+- Erik Spiekermann
+- Stefan Sagmeister
 
-*Graphic Designers of note*
-Josef Müller-Brockmann
-Otl Aicher
-Erik Spiekermann
-Stefan Sagmeister
+## 2: Design principles
 
-## Section 2: Design principles
+**Typography**
+1. Legibility and hierarchy
+2. Says something about the subject matter
 
-Typography
-  1. Aids legibility
-  2. Says something about the subject matter
+**Colour**
+1. Contrast and emphasis
+2. Accessibility
 
-Colour
-
-Layout (golden ratio?)
-
-Grids, White space and rhythm
+**Layout**
+1. The golden ratio
+2. If in doubt, take it out!
+3. Baseline Grids
+4. Column-based layouts
+5. Negative space
 
 ## Exercise 1 (~90 minutes)
 
@@ -38,12 +42,11 @@ You're going to create a typographic digital CV page for yourself that reflects 
 4. Edit the spacing values to give the CV room to breathe
 5. Use https://colorbook.me/ to choose a set of colours
 
-## Section 3: Design for screens
+## 3: Design for screens
 
-Responsive web
-
-Web vs apps
-
+1. Basics of design for devices
+2. UX overview - web vs apps
+3. Design systems
 
 ## Excercise 2 (~90 minutes)
 
