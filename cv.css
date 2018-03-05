@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  margin: 0 auto;
+  max-width: 50rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+h1,h2,h3,h4 {font-weight: 700;}
+h1 {font-size: 3rem;}
+h2 {font-size: 2rem;}
+h3 {font-size: 1rem;}
+h4 {font-size: 1rem;}
+
+.col-left {
+  flex-grow: 2;
+  flex-shrink: 2;
+  flex-basis: 66%;
+}
+
+.col-right {
+  flex-grow: 1;
+  flex-shrink: 2;
+  flex-basis: 33%;
+}
+
+ul.jobs li {margin-bottom: 2rem;}
