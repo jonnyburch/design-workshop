@@ -1,3 +1,21 @@
+/* Lets pick colours! */
+
+:root {
+  --bg-color: #fff;
+  --text-color: #000;
+  --highlight-color: #000;
+  --link-color: blue;
+}
+
+body, html {
+  color: var(--text-color);
+  background-color: var(--bg-color);
+
+  /*Declare your font*/
+  font-family: serif;
+}
+
+/*choose your type heirarchy*/
 h1,h2,h3,h4 {font-weight: 700;}
 h1 {font-size: 3rem;}
 h2 {font-size: 2rem;}
@@ -6,7 +24,9 @@ h4 {font-size: 1rem;}
 
 b {font-weight: 700;}
 i {font-style: italic;}
+a {color: var(--link-color)}
 
+/*basic structure*/
 .container {
   display: flex;
   margin: 0 auto;
@@ -27,6 +47,7 @@ i {font-style: italic;}
   flex-basis: 33%;
 }
 
+
 /*Header*/
 
 header .container {
@@ -36,9 +57,16 @@ header .container {
 
 /*content*/
 
+.bio {flex-direction: column;}
+.bio p, .bio ul li {margin-bottom: 1rem;}
+
 ul.jobs li {
   padding-right: 2rem;
   margin-bottom: 2rem;
 }
 
 /*footer*/
+footer .container {
+  padding: 2rem 0;
+  border-top: 2px solid black;
+}
