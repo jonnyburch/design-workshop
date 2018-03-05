@@ -2,18 +2,14 @@
 
 This is the accompanying document to a four hour design workshop being delivered to students of Constructor Labs development bootcamp in London. http://constructorlabs.com/
 
+The presentation slides are [here](https://docs.google.com/presentation/d/1xN4QBXkngBDh4xzkqMDSxL9PcbQz14izX6zDZkaTZQk/edit?usp=sharing)
+
 ---
 
 ## 1: What is the job of design?
 
 1. Design is solving a problem using visual language
 2. Defining the problem you need to solve
-
-**Graphic Designers of note**
-- Josef Müller-Brockmann
-- Otl Aicher
-- Erik Spiekermann
-- Stefan Sagmeister
 
 ## 2: Design principles
 
@@ -66,7 +62,4 @@ Now you're going to make your CV look good on mobile and desktop.
 - https://fonts.google.com/ - all google free fonts
 - https://colorbook.me/ - colour palettes on dribbble
 - https://www.typographicposters.com/ - typographic poster archive
-
-
-https://www.typographicposters.com/posters/erre-galvez/59b6e51e1abbcb0b73011512
-https://www.typographicposters.com/posters/peim/5a0b23731abbcb699d5fafd8
+- https://www.awwwards.com/websites/typography/ - what's good right now?
