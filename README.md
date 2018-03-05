@@ -6,31 +6,26 @@ The presentation slides are [here](https://docs.google.com/presentation/d/1xN4QB
 
 ---
 
-## 1: What is the job of design?
+## Excercise 1 - Help Dmitri plan his new CV
 
-1. Design is solving a problem using visual language
-2. Defining the problem you need to solve
+Dmitri has decided to apply for a new job. The jobs he's looking at are:
 
-## 2: Design principles
+- Antiques dealer
+- Rave DJ
+- Academic
+- Photographer
+- Circus performer
+- Outdoorsman
+- Womens fashion blogger
+- Surgeon
+- Travel writer
+- Software Engineer
 
-**Typography**
-1. Legibility and hierarchy
-2. Says something about the subject matter
+It's your job to make sure his CV is looking top notch. Based on the design language of your chosen career, sketch out and decide on a layout for Dmitri's new online CV.
 
-**Colour**
-1. Contrast and emphasis
-2. Accessibility
+## Exercise 2 - apply your styles to the web
 
-**Layout**
-1. The golden ratio
-2. If in doubt, take it out!
-3. Baseline Grids
-4. Column-based layouts
-5. Negative space
-
-## Exercise 1 (~90 minutes)
-
-You're going to create a typographic digital CV page for yourself that reflects your personality and values.
+You're going to turn this vision into an online typographic digital CV page.
 
 1. Find the `cv.html` and `cv.css` files
 2. Change the name in the `cv.html` file to your own (and feel free to add your own details!)
@@ -38,13 +33,9 @@ You're going to create a typographic digital CV page for yourself that reflects 
 4. Edit the spacing values to give the CV room to breathe
 5. Use https://colorbook.me/ to choose a set of colours
 
-## 3: Design for screens
+You have about an hour to make this vision come true.
 
-1. Basics of design for devices
-2. UX overview - web vs apps
-3. Design systems
-
-## Excercise 2 (~90 minutes)
+## Excercise 3 - make his new CV look good on mobile
 
 Now you're going to make your CV look good on mobile and desktop.
 
@@ -53,8 +44,9 @@ Now you're going to make your CV look good on mobile and desktop.
 3. Make your website look good on mobile using your `cv.css` file
 3. Find the `responsive.css` file and using the desktop breakpoint, add the classes you need to return your desktop cv to its former glory
 
+---
 
-### Resources
+## Resources
 
 - https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en whatfont chrome extension
 - http://typ.io/ - browse font pairings
